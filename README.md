@@ -170,7 +170,7 @@ plt.plot(np.add(range(len(costs)),1), costs)
 
 
     
-![png](Recognition_Mnist_files/Recognition_Mnist_21_1.png)
+![png](https://raw.githubusercontent.com/EgeCaliskan/Feedforward-Neural-Network-Ile-MNIST-Elyaz-s-Tahmini/main/Recognition_Mnist_21_1.png)
     
 
 
