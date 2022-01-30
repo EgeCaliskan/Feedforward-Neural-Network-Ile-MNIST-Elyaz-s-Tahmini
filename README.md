@@ -36,7 +36,7 @@ print(train_labels[rands].reshape(5,4))
 
 
     
-![png](Recognition_Mnist_files/Recognition_Mnist_5_0.png)
+![png](https://github.com/EgeCaliskan/Feedforward-Neural-Network-Ile-MNIST-Elyaz-s-Tahmini/blob/main/Recognition_Mnist_5_0.png?raw=true)
     
 
 
