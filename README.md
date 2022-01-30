@@ -1,3 +1,5 @@
+In this project, I aimed to predict handwritten digits in the MNIST dataset using a feedforward neural network. I ran the algorithm for 1400+ iterations. The algorithm managed to get 97.68% accuracy in test data and 100% accuracy in training data. You can see the code below. 
+
 ## Importing The Needed Libraries
 
 
